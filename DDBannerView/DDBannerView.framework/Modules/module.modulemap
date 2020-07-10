@@ -1,0 +1,6 @@
+framework module DDBannerView {
+  umbrella header "DDBannerView.h"
+
+  export *
+  module * { export * }
+}
