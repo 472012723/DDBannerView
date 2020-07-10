@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'DDBannerView/Classes/**/*'
+  s.source_files = 'DDBannerView/DDBannerView.framework/Headers/*'
   
   # s.resource_bundles = {
   #   'DDBannerView' => ['DDBannerView/Assets/*.png']
