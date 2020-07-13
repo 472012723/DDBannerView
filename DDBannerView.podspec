@@ -35,7 +35,7 @@ TODO: Add long description of the pod here.
   # s.resource_bundles = {
   #   'DDBannerView' => ['DDBannerView/Assets/*.png']
   # }
-
+ s.requires_arc = true
   # s.public_header_files = 'Pod/Classes/**/*.h'
   #s.frameworks = 'SDWebImage'
   s.dependency 'SDWebImage'
