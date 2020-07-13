@@ -2,7 +2,7 @@
 //  DDBannerView.h
 //  DDBannerView
 //
-//  Created by wdd on 2020/7/10.
+//  Created by wdd on 2020/7/13.
 //  Copyright © 2020 王达达. All rights reserved.
 //
 

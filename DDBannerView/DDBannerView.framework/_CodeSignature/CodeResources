@@ -6,23 +6,15 @@
 	<dict>
 		<key>Headers/DDBannerView.h</key>
 		<data>
-		nUeSOjTOijRJUEBSSJvGEW3OoV8=
-		</data>
-		<key>Headers/DDBannerViewWithURL.h</key>
-		<data>
-		CBvvW3VcTK3YpmMRUXLTaU2VWtg=
+		QAZSZ0aW3Lv2y7xQuy003F+fntM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Tz4cPMm+/YsWlGiKCVyMZxhptvQ=
+		Q0ypND76o/DywAT0c0pQubOPznQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		eDhW0gkFn2H+z3PRNwNe+Oy9seg=
-		</data>
-		<key>PrivateHeaders/DDBannerViewWithURL.m</key>
-		<data>
-		bqkK4gHch5/IuPpoBnDDu1QLlzk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -31,22 +23,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nUeSOjTOijRJUEBSSJvGEW3OoV8=
+			QAZSZ0aW3Lv2y7xQuy003F+fntM=
 			</data>
 			<key>hash2</key>
 			<data>
-			IEekhGGU4fhy1oIOFKXOTwhYt/0TBmoJktXt93oA6UI=
-			</data>
-		</dict>
-		<key>Headers/DDBannerViewWithURL.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CBvvW3VcTK3YpmMRUXLTaU2VWtg=
-			</data>
-			<key>hash2</key>
-			<data>
-			4ttpK7jfJwqhQYhLH4cp90VxP/2MLQvsAzscBNEy5fc=
+			THkKETu5VFK/9HAxZLXqaLiY9Pk513JK6NOzSlVwgwI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -58,17 +39,6 @@
 			<key>hash2</key>
 			<data>
 			SGSmJhAbVqIRSzGrUCkeRlprIMluvuLSOfMQeMo+Bkc=
-			</data>
-		</dict>
-		<key>PrivateHeaders/DDBannerViewWithURL.m</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bqkK4gHch5/IuPpoBnDDu1QLlzk=
-			</data>
-			<key>hash2</key>
-			<data>
-			cXTV6kJK6yFezC38z1O39ScIJ0rppvgkuSEVd7eWT80=
 			</data>
 		</dict>
 	</dict>
